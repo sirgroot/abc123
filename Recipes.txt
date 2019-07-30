@@ -5,3 +5,6 @@ Welcome to Kuzco's Kitchen!
 Burger
 Hotdog 
 Chicken Tenders
+
+Beans 
+Pizza
